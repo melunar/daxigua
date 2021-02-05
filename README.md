@@ -66,5 +66,10 @@
 
 切换两张图片到达字放大缩小
 
+# 大佬的教程 附上
+
+1. 新上线了改图工具，效率提升 10倍！[https://daxigua-tools.liyupi.com/]
+2. 文档教程：[https://mp.weixin.qq.com/s/H9VR1MWn-9bKSC_1l_MkJw]
+3. 改图配置列表 [https://docs.qq.com/sheet/DS0d2VVVJYmpvZ0pZ?tab=BB08J2]
 
 
